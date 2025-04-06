@@ -89,13 +89,7 @@ Low Engagement                     Community forum + direct messaging for better
  AI Evaluation| Python                            
  Database     | Firestore (Firebase)              
  Auth         | Firebase Authentication (JWT)     
- Storage      | Firebase Storage                  
-
-# Quick Access
-
-- [GitHub Repository](#)  
-- [Live MVP](#)  
-- [Demo Video](#)  
+ Storage      | Firebase Storage                    
 
 # Future Enhancements
 
